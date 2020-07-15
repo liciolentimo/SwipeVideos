@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         item2.videoTitle = "Sasha Solomon";
         item2.videoDesc = "How Sasha Solomon Became a Software Developer at Twitter";
         videoItems.add(item2);
-////
+
         VideoItem item3 = new VideoItem();
         item3.videoURL = "https://liciolentimo.co.ke/img/videos/facebook2.mp4";
         item3.videoTitle = "Happy Hour Wednesday";
